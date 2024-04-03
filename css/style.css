@@ -1,7 +1,20 @@
 header{
     background-color: aqua;
+    background-repeat: repeat-x;
     }
 
-.pattern{
+#pattern{
     background-color: aqua;
+    height: 15rem;
+    width: 50rem;
+    background-repeat: repeat;
+}
+
+#logo{
+    background-color: aqua;
+    height: 5rem;
+}
+
+.img1{
+    
 }
